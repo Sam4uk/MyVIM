@@ -1,1 +1,1 @@
-/home/sam4uk/.config/nvim/init.vim
+~/.config/nvim/init.vim
