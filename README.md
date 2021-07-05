@@ -3,4 +3,5 @@
 
 # ChangeLog
 
+05 Jul 2021 - Migrate to Nvim
 14 Apr 2021 - Restart this repo. Fitst commit
